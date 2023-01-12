@@ -1,3 +1,0 @@
-echo " i love God"
-echo " I will pick a second Job soon"
-
